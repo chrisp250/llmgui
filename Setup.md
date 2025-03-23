@@ -1,4 +1,4 @@
-# Ollama LLM
+# Web LLM docker service deployment
 Set up guide for **Ollama** and **Open Webui** inside docker
 
 ## Set up docker
